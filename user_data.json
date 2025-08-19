@@ -1327,7 +1327,7 @@
     "points": 88,
     "streak": "1",
     "created_at": "2025-08-14 14:58:35",
-    "updated_at": "2025-08-19 17:45:12"
+    "updated_at": "2025-08-19 17:44:58"
   },
   "1195ac4834013329": {
     "name": "@Abhi",
@@ -3729,5 +3729,12 @@
     "streak": "1",
     "created_at": "2025-08-19 17:28:36",
     "updated_at": "2025-08-19 17:32:07"
+  },
+  "4216274884b0fcfc": {
+    "name": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NzkxMDAiLCJlbWFpbCI6InJhdmlrdW5kdTU2NUBnbWFpbC5jb20iLCJ0aW1lc3RhbXAiOjE3Mzc2MTE3NTYsInRlbmFudFR5cGUiOiJ1c2VyIiwidGVuYW50TmFtZSI6IiIsInRlbmFudElkIjoiIn0.qiCmRpfNoCi--mtp0cRKxv1c-VovLhZi59tL_qRWD6w~@SDV_BOTX",
+    "points": 0,
+    "streak": "0",
+    "created_at": "2025-08-19 17:45:13",
+    "updated_at": "2025-08-19 17:45:13"
   }
 }
