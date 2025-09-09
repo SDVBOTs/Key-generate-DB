@@ -264,5 +264,12 @@
         "streak": "0",
         "created_at": "2025-09-09 14:12:29",
         "updated_at": "2025-09-09 14:12:29"
+    },
+    "0d42edf503e158d3": {
+        "name": "username",
+        "points": 0,
+        "streak": "0",
+        "created_at": "2025-09-09 14:32:40",
+        "updated_at": "2025-09-09 14:32:40"
     }
 }
