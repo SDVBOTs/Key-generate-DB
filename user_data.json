@@ -894,5 +894,12 @@
         "streak": "1",
         "created_at": "2025-09-10 14:49:10",
         "updated_at": "2025-09-10 14:52:47"
+    },
+    "8cffd44e2acb1e35": {
+        "name": "Abhishek",
+        "points": 0,
+        "streak": "0",
+        "created_at": "2025-09-10 14:52:53",
+        "updated_at": "2025-09-10 14:52:53"
     }
 }
