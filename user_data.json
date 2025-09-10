@@ -1083,5 +1083,12 @@
         "streak": "0",
         "created_at": "2025-09-10 17:57:45",
         "updated_at": "2025-09-10 17:57:45"
+    },
+    "6bef0f2f47a0edaf": {
+        "name": "test12345678@c.us",
+        "points": 0,
+        "streak": "0",
+        "created_at": "2025-09-10 17:59:07",
+        "updated_at": "2025-09-10 17:59:07"
     }
 }
