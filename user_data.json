@@ -2000,5 +2000,12 @@
         "streak": "1",
         "created_at": "2025-09-13 21:40:24",
         "updated_at": "2025-09-13 21:41:24"
+    },
+    "392ccccec86cfb0d": {
+        "name": "pwn",
+        "points": 0,
+        "streak": "0",
+        "created_at": "2025-09-13 22:30:01",
+        "updated_at": "2025-09-13 22:30:01"
     }
 }
